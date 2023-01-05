@@ -4,7 +4,7 @@
 **FacuuGomez/FacuuGomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Soy Facundo y me encuentro en constante busqueda de objetivos para superar, ya sea aprendiendo nuevos tecnologias para implementar en proyectos como metas personales. Por eso actualmente me encuentro en busqueda de nuevas experiencias para mi carrera como desarrollador.
+Soy Facundo y me encuentro en constante busqueda de objetivos para superar, ya sea aprendiendo nuevas tecnologias para implementar en proyectos como metas personales. Por eso actualmente me encuentro en busqueda de nuevas experiencias para mi carrera como desarrollador.
 
 ## Lenguajes y Tecnologias 
 
