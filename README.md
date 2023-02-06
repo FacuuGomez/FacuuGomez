@@ -21,5 +21,5 @@ Soy Facundo y me encuentro en constante busqueda de objetivos para superar, ya s
 
 ## Contacto
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silvina-bordon/)](https://www.linkedin.com/in/facundo-gomez-293a68238/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/facu-gomez/)](https://www.linkedin.com/in/facu-gomez/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:facuugomez67@gmail.com)](mailto:facuugomez67@gmail.com)
